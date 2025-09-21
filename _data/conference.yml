@@ -1,0 +1,157 @@
+full_title: RSDHA&#58; Redefining Scalability for Diversely Heterogeneous Architectures
+short_title: RSDHA 2021
+email: belviranli@mines.edu 
+description: > # this means to ignore newlines until "baseurl:"
+location: St. Louis, MO, 2021 <br> (Collocated with SC'21)
+date: November 19, 2021
+logo_path: ./assets/images/rsdha.png
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: St Louis
+    photographer_name: Mike Boening
+    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: St Louis
+    photographer_name: Bryan Nabong
+    photographer_link: https://www.flickr.com/photos/bongarang/
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: SC21
+    photographer_name: David Sawyer
+    photographer_link: https://www.flickr.com/photos/18702768@N04/
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Submission
+    path: /submission.html
+    visible: True
+  - id: 4
+    label: Program
+    path: /program.html
+    visible: True
+  # - id: 5
+  #   label: Venue
+  #   path: /venue.html
+  #   visible: True
+  - id: 5
+    label: Registration
+    path: /registration.html
+    visible: True
+deadlines:
+  - date: 2021-9-17
+    timezone: AOE
+    text: Paper Submission deadline (extended)
+    pass_due: False
+  - date: 2021-10-1
+    text: Notification of Acceptance
+    pass_due: False
+  - date: 2021-10-11
+    text: Camera-ready Papers
+    pass_due: False
+  - date: 2021-11-19
+    text: Workshop
+    pass_due: False
+news:
+  - date: 2021-07-10
+    text: Website online
+# sponsors:
+#   - name: ACM
+#     logo_path: ./assets/images/sponsors/acm-logo.png
+#   - name: IEEE
+#     logo_path: ./assets/images/sponsors/ieee-logo.gif
+# social_media:
+#   facebook_link: https://www.facebook.com/hotwebseries/
+#   twitter_link:
+program_chair:
+  - name: Mehmet E. Belviranli
+    org: Colorado School of Mines (USA)
+    homepage: http://mehmet.belviranli.com/
+  - name: Seyong Lee
+    org: Oak Ridge National Laboratory (USA)
+    homepage: https://ft.ornl.gov/~lees2/
+  - name: Shuaiwen Leon Song
+    org: The University of Sydney
+    homepage: https://shuaiwen-leon-song.github.io/
+keynote_speakers:
+  - name: Jeffrey Vetter
+    org: Oak Ridge National Laboratory (USA)
+    homepage: https://ft.ornl.gov/~vetter/
+  - name: Mary Hall
+    org: University of Utah
+    homepage: https://www.cs.utah.edu/~mhall/
+steering_committees:
+  - name: Bradford Chamberlain
+    org: Cray Inc. (USA)
+    homepage: https://homes.cs.washington.edu/~bradc/cv/index.html
+  - name: Allen Malony
+    org: University of Oregon (USA)
+    homepage: http://ix.cs.uoregon.edu/~malony/
+  - name: Shirley Moore
+    org: The University of Texas at El Paso (USA)
+    homepage: http://www.cs.utep.edu/svmoore/
+  - name: Catherine Schuman
+    org: Oak Ridge National Laboratory (USA)
+    homepage: https://www.ornl.gov/staff-profile/catherine-d-schuman
+  - name: Antonino Tumeo
+    org: Pacific Northwest National Laboratory (USA)
+    homepage: https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7437
+  - name: Didem Unat
+    org: Koc University (Turkey)
+    homepage: https://ieeexplore.ieee.org/author/37085542611
+technical_program_committees:
+  - name: Ali Akoglu
+    org: Arizona State University (USA)
+  - name: Vito Giovanni Castellana
+    org: Pacific Northwest National Laboratory (USA)
+  - name: Kei Davis
+    org: Los Alamos National Laboratory (USA)
+  - name: Javier Teruel Garcia
+    org: Barcelona Supercomputing Center (Spain)
+  - name: Jungwon Kim
+    org: Oak Ridge National Laboratory (USA)
+  - name: Martin Kong
+    org: University of Oklahoma (USA)
+  - name: Selcuk Kose
+    org: University of Rochester (USA)
+  - name: Sriram Krishnamoorthy
+    org: Pacific Northwest National Laboratory (USA)
+  - name: Jaejin Lee
+    org: Seoul National University (South Korea)
+  - name: Pak Markthub
+    org: NVIDIA (Japan)
+  - name: Jedidiah McClurg
+    org: Colorado School of Mines (USA)
+  - name: Eun Jung Park
+    org: Los Alamos National Laboratory (USA)
+  - name: Ivy Peng
+    org: Lawrence Livermore National Laboratory (USA)
+  - name: Amit Sabne
+    org: Google (USA)
+  - name: Dingwen Tao
+    org: Washington State University (USA)
+  - name: Devesh Tiwari
+    org: Northeastern University (USA)
+  - name: Daniel Wong
+    org: University of California, Riverside (USA)
+  - name: Bo Wu
+    org: Colorado School of Mines (USA)
+  - name: Panruo Wu
+    org: University of Houston (USA)
+  - name: Liang Zhou
+    org: Facebook (USA)
+
+    
